@@ -1,4 +1,4 @@
-### Hi I'm Dhanvanti 👋
+### Salut, I'm Dhanvanti 👋
 
 <!--
 **dhanvantichelani22/dhanvantichelani22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
