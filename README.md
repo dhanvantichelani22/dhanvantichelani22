@@ -1,4 +1,4 @@
-<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
+<!--<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">-->
 <h1 align="center">Salut,👋<!--<img align="bottom" height="50" width="50" src="https://media.tenor.com/2CC_MxnlCwEAAAAM/shake-hand.gif">--> I'm Dhanvanti Chelani</h1>
 <h2 align="left">About Me 👧🏻 :
 <br>
