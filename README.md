@@ -1,9 +1,9 @@
-### Salut 👋, I'm Dhanvanti 
+### Salut 👋, I'm Dhanvanti Chelani
 <!--
 **dhanvantichelani22/dhanvantichelani22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-       A passionate Frontend Developer from India
+      
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me dhanvantichelani865@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-  A passionate Frontend Developer from India
