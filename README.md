@@ -1,10 +1,11 @@
-### Salut 👋, I'm Dhanvanti Chelani
+### Salut,Waving hand animated gif I'm Dhanvanti Chelani
 <!--
 **dhanvantichelani22/dhanvantichelani22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+About Me 👧🏻 :
       
 - 🔭 I’m currently working on ...
+- 🎭 I love speaking at events and connecting with people.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -12,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me dhanvantichelani865@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--  A passionate Frontend Developer from India
+->  A passionate Frontend Developer from India
