@@ -1,6 +1,6 @@
 ### Salut,Waving hand animated gif I'm Dhanvanti Chelani
 <!--
-**dhanvantichelani22/dhanvantichelani22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**dhanvantichelani22/dhanvantichelani22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 About Me 👧🏻 :
       
