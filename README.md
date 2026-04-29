@@ -51,20 +51,8 @@
   </a>
 </p>
 
-<p>
-  <img align="left" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanvantichelani22&layout=compact&theme=default" 
-       alt="top languages" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanvantichelani22&show_icons=true&locale=en&layout=compact" alt="dhanvantichelani22" /></p>
 
-<p>
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=dhanvantichelani22&show_icons=true&theme=default" 
-       alt="github stats" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanvantichelani22&show_icons=true&locale=en" alt="dhanvantichelani22" /></p>
 
-<p>
-  <img align="center" 
-       src="https://streak-stats.demolab.com/?user=dhanvantichelani22&theme=default" 
-       alt="github streak" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanvantichelani22&" alt="dhanvantichelani22" /></p>
