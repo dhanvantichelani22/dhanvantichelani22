@@ -2,7 +2,7 @@
 <h1 align="center">Salut,👋<!--<img align="bottom" height="50" width="50" src="https://media.tenor.com/2CC_MxnlCwEAAAAM/shake-hand.gif">--> I'm Dhanvanti Chelani</h1>
 <h2 align="left">About Me 👧🏻 :
 <br>
-<h2 align="center">A passionate Frontend Developer from India</h2>
+<h2 align="center">Turning Data into Insights with Analytics & AI</h2>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanvantichelani22&label=Profile%20views&color=0e75b6&style=flat" alt="dhanvantichelani22" /> </p>
 
