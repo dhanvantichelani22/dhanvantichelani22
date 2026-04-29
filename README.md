@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanvantichelani22&label=Profile%20views&color=0e75b6&style=flat" alt="dhanvantichelani22" /> </p>
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning **Master in Data Science & Analytics with Artificial Intelligence**
 
 - 📫 How to reach me **dhanvantichelani865@gmail.com**
 
@@ -51,8 +51,20 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanvantichelani22&show_icons=true&locale=en&layout=compact" alt="dhanvantichelani22" /></p>
+<p>
+  <img align="left" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanvantichelani22&layout=compact&theme=default" 
+       alt="top languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanvantichelani22&show_icons=true&locale=en" alt="dhanvantichelani22" /></p>
+<p>
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=dhanvantichelani22&show_icons=true&theme=default" 
+       alt="github stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanvantichelani22&" alt="dhanvantichelani22" /></p>
+<p>
+  <img align="center" 
+       src="https://streak-stats.demolab.com/?user=dhanvantichelani22&theme=default" 
+       alt="github streak" />
+</p>
